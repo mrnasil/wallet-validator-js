@@ -18,7 +18,7 @@ module.exports = function (config) {
 
         logLevel: config.LOG_INFO,
 
-        browsers: ['ChromeHeadless'],
+        browsers: ['Edge'],
 
         singleRun: true,
 
